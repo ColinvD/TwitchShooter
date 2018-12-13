@@ -1,0 +1,5 @@
+Zet jou eigen twitch gegevens hier in en zorg ervoor dat er een . achter je gegevens is.
+1. username: theawsomedragon.
+2. password: oauth:13y53pj55w0wowqp3beeffnd6u8ymx.
+Get your password from https://twitchapps.com/tmi
+3. channelName: theawsomedragon.

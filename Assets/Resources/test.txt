@@ -1,0 +1,5 @@
+Zet jou eigen twitch gegevens hier in en zorg ervoor dat er een . achter je gegevens is.
+1. username: replace this.
+2. password: replace this.
+Get your password from https://twitchapps.com/tmi
+3. channelName: replace this.
